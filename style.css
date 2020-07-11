@@ -1,0 +1,35 @@
+.count {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+background-color: powderblue;
+border: 2px solid black;
+
+}
+
+.head{
+text-align: center;
+font-size: 50px;
+font-family: 'Times New Roman', Times, serif;
+}
+.btn button{
+    text-align: center;
+    border: 3px solid black;
+font-size: 30px;
+background-color: chartreuse;
+border-radius: 20px;
+font-family: 'Times New Roman', Times, serif;
+}
+.btn{
+    text-align: center;
+    margin-top: 10px;
+}
+.wrap{
+    border: 2px solid black;
+    padding: 30px;
+    border-radius: 50px;
+    background-color: deeppink;
+
+}
